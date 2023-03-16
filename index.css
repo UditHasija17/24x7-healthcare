@@ -1,0 +1,387 @@
+.frame-child {
+    background-color: #d9ded9;
+  }
+  .fotor-ai-1-1,
+  .frame-child,
+  .frame-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 1075px;
+  }
+  .fotor-ai-1-1 {
+    object-fit: cover;
+  }
+  .frame-item {
+    background-color: var(--color-gainsboro);
+    backdrop-filter: blur(100px);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    opacity: 0.5;
+    mix-blend-mode: hard-light;
+  }
+  .frame-inner {
+    position: absolute;
+    top: 0;
+    left: 936px;
+    border-radius: 0 0 var(--br-81xl) var(--br-81xl);
+    background-color: #151514;
+    width: 950px;
+    height: 72px;
+  }
+  .donate,
+  .get-help {
+    position: absolute;
+    font-weight: 500;
+  }
+  .get-help {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 20px;
+    left: 1079px;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-poppins);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+    width: 192px;
+    height: 44px;
+  }
+  .donate {
+    left: 1198px;
+  }
+  .about,
+  .contact-us,
+  .donate {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 20px;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-poppins);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+    width: 192px;
+    height: 44px;
+  }
+  .about {
+    position: absolute;
+    left: 1306px;
+    font-weight: 500;
+  }
+  .contact-us {
+    left: 1409px;
+  }
+  .contact-us,
+  .login,
+  .sign-up1 {
+    position: absolute;
+    font-weight: 500;
+  }
+  .login {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 20px;
+    left: 1566px;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-poppins);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+    width: 192px;
+    height: 44px;
+  }
+  .sign-up1 {
+    top: 21px;
+    left: 1662px;
+  }
+  .icon-profile-circle {
+    position: absolute;
+    height: 3.21%;
+    width: 1.79%;
+    top: 1.95%;
+    right: 5.44%;
+    bottom: 94.84%;
+    left: 92.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-child {
+    position: absolute;
+    top: 23.24px;
+    left: 24.58px;
+    background-color: var(--color-gainsboro);
+    width: 24.58px;
+    height: 22.27px;
+  }
+  .x7-healthcare-logo-hd-1 {
+    object-fit: cover;
+  }
+  .rectangle-group,
+  .x7-healthcare-logo-hd-1,
+  .x7-healthcare-logo-hd-1-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 74px;
+    height: 69px;
+  }
+  .rectangle-group {
+    left: 24px;
+  }
+  .x {
+    color: var(--color-red);
+  }
+  .home,
+  .x7-healthcare {
+    position: absolute;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .x7-healthcare {
+    top: 13px;
+    left: 112px;
+    font-size: 30px;
+    width: 412px;
+    height: 118px;
+  }
+  .home {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 19px;
+    left: 996px;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-poppins);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .image-1-icon {
+    position: absolute;
+    top: 719px;
+    left: 1246px;
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+  }
+  .rectangle-parent {
+    background-color: var(--color-white);
+    overflow: hidden;
+  }
+  .rectangle-parent,
+  .sign-up-page {
+    position: absolute;
+    top: 0;
+    left: 0;
+    backdrop-filter: blur(70px);
+    width: 1920px;
+    height: 1075px;
+  }
+  .group-inner,
+  .group-item {
+    position: absolute;
+    top: 13.25px;
+    left: 13.44px;
+    background-color: var(--color-red-100);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.12);
+    width: 604.79px;
+    height: 671.75px;
+  }
+  .group-inner {
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    box-shadow: 6px 0 12px rgba(0, 0, 0, 0.12);
+  }
+  .sign-up2 {
+    position: absolute;
+    top: 100px;
+    left: 223px;
+    font-size: 36px;
+    display: inline-block;
+    color: var(--color-red-100);
+    width: 142px;
+    height: 56px;
+  }
+  .group-child1,
+  .rectangle-div {
+    position: absolute;
+    top: 429.28px;
+    left: 30.91px;
+    background-color: var(--color-red-100);
+    width: 541.62px;
+    height: 66.25px;
+  }
+  .group-child1 {
+    top: 516px;
+    left: 31px;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+  }
+  .group-child2,
+  .group-child3 {
+    position: absolute;
+    top: 310.04px;
+    left: 30.91px;
+    background-color: var(--color-royalblue);
+    width: 541.62px;
+    height: 1.32px;
+  }
+  .group-child3 {
+    top: 398.81px;
+  }
+  .continue-with-google,
+  .sign-up3 {
+    position: absolute;
+    top: 448px;
+    left: 258px;
+    font-size: var(--font-size-3xl);
+    font-weight: 500;
+    color: var(--color-white);
+    display: inline-block;
+    width: 107px;
+    height: 28px;
+  }
+  .continue-with-google {
+    top: 536px;
+    left: 209px;
+    color: var(--color-dimgray);
+    width: 240.57px;
+    height: 27.82px;
+  }
+  .group-child4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-aliceblue-100);
+    width: 541.62px;
+    height: 66.25px;
+  }
+  .password {
+    position: absolute;
+    top: 18.55px;
+    left: 68.54px;
+    display: inline-block;
+    width: 107.52px;
+    height: 27.82px;
+  }
+  .key-duotone-1-icon {
+    position: absolute;
+    top: 19.87px;
+    left: 21.5px;
+    width: 29.57px;
+    height: 29.15px;
+    overflow: hidden;
+  }
+  .group-div,
+  .username {
+    position: absolute;
+    top: 332.56px;
+    left: 30.91px;
+    width: 541.62px;
+    height: 66.25px;
+  }
+  .username {
+    top: 19.87px;
+    left: 67.2px;
+    display: inline-block;
+    width: 110.21px;
+    height: 27.82px;
+  }
+  .user-duotone-1-icon {
+    position: absolute;
+    top: 22.52px;
+    left: 22.85px;
+    width: 17.47px;
+    height: 21.2px;
+    overflow: hidden;
+  }
+  .group-child7,
+  .rectangle-parent1,
+  .rectangle-parent2 {
+    position: absolute;
+    top: 243.79px;
+    left: 30.91px;
+    width: 541.62px;
+    height: 66.25px;
+  }
+  .group-child7,
+  .rectangle-parent2 {
+    top: 156px;
+    left: 31px;
+  }
+  .group-child7 {
+    top: 28.74px;
+    left: 30.39px;
+    background-color: var(--color-gainsboro);
+    width: 30.39px;
+    height: 27.53px;
+  }
+  .x7-healthcare-logo-hd-11 {
+    object-fit: cover;
+  }
+  .rectangle-parent3,
+  .x7-healthcare-logo-hd-1-container,
+  .x7-healthcare-logo-hd-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 91.5px;
+    height: 85.32px;
+  }
+  .rectangle-parent3 {
+    top: 24px;
+    left: 241px;
+  }
+  .group-container,
+  .mail-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 618.23px;
+    height: 685px;
+  }
+  .mail-icon {
+    top: 169px;
+    left: 46px;
+    width: 34px;
+    height: 33px;
+    object-fit: cover;
+  }
+  .group-parent {
+    position: absolute;
+    top: 195px;
+    left: 1087px;
+    width: 618.23px;
+    height: 685px;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-700);
+    font-family: var(--font-roboto);
+  }
+  .sign-up {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 1075px;
+  }
+  .sign-up-parent {
+    position: relative;
+    width: 100%;
+    height: 1075px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-poppins);
+  }
+  
